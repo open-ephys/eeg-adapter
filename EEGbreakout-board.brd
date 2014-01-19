@@ -1707,7 +1707,7 @@
 <library name="adafruit">
 <packages>
 <package name="1X01">
-<description><b>PIN HEADER</b></description>
+<description>PIN HEADER</description>
 <wire x1="-0.635" y1="1.27" x2="0.635" y2="1.27" width="0.1524" layer="21"/>
 <wire x1="0.635" y1="1.27" x2="1.27" y2="0.635" width="0.1524" layer="21"/>
 <wire x1="1.27" y1="0.635" x2="1.27" y2="-0.635" width="0.1524" layer="21"/>
@@ -1725,7 +1725,7 @@
 </library>
 <library name="Wuerth_Elektronik_eiCan_01_Pin__Socked_Headers_v1_3">
 <description>
-<BR>Würth Elektronik -- Electronic Interconnect & Electromechanical Solutions<br><Hr> <BR><BR> <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0> <TR> <TD BGCOLOR="#cccccc" ALIGN=CENTER><FONT FACE=ARIAL SIZE=3><BR><br> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<BR> <BR> <BR> <BR><BR></FONT> </TD> <TD BGCOLOR="#cccccc" ALIGN=CENTER><FONT FACE=ARIAL SIZE=3><br> -----<BR> -----<BR> -----<BR> -----<BR> -----<BR><BR></FONT> </TD> <TD BGCOLOR="#cccccc" ALIGN=CENTER> <FONT FACE=ARIAL SIZE=3><br> ---------------------------<BR> <B><I><span style='font-size:26pt; color:#FF6600;'>WE </span></i></b> <BR> ---------------------------<BR><b>Würth Elektronik</b></FONT> </TD> <TD BGCOLOR="#cccccc" ALIGN=CENTER><FONT FACE=ARIAL SIZE=3><br> ---------O---<BR> ----O--------<BR> ---------O---<BR> ----O--------<BR> ---------O---<BR><BR></FONT> </TD> <TD BGCOLOR="#cccccc" ALIGN=CENTER><FONT FACE=ARIAL SIZE=3><BR> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<BR> <BR> <BR> <BR> <BR><BR></FONT> </TD> </TR> <TR> <TD COLSPAN=7>&nbsp; </TD> </TR> </TABLE> <B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;More than you expect<BR><BR><BR></B> <HR><BR> <b>Würth Elektronik eiSos GmbH & Co. KG</b><br> EMC & Inductive Solutions<br> Max-Eyth-Str.1<br> D-74638 Waldenburg<br> <br> Tel: +49 (0)7942-945-0<br> Fax:+49 (0)7942-945-405<br> <br> <a href="http://www.we-online.com">http://www.we-online.com</a><br> <a href="mailto:pm.hotline@we-online.de">pm.hotline@we-online.de</a> <BR><BR> <br><HR><BR> Neither CadSoft nor WE-eiSos does warrant that this library is error-free or <br> that it meets your specific requirements.<br><BR> Please contact us for more information.<br><BR><br> <hr> Version 1.3, May 05-th 2011 <HR> Copyright: Würth Elektronik
+Würth Elektronik
 </description>
 <packages>
 <package name="61304021121">
@@ -1781,7 +1781,7 @@
 </library>
 <library name="MS001-1_4xNutzEURO">
 <description>
-Generated from <b>MS001-1_4xNutzEURO.brd</b><p> by exp-lbrs.ulp
+MS001-1_4xNutzEURO.brd
 </description>
 <packages>
 <package name="CON-MOLEX_71061-0003SM">
@@ -1858,10 +1858,8 @@ Generated from <b>MS001-1_4xNutzEURO.brd</b><p> by exp-lbrs.ulp
 </classes>
 <designrules name="default *">
 <description language="de">
-<b>EAGLE Design Rules</b> <p> Die Standard-Design-Rules sind so gewählt, dass sie für die meisten Anwendungen passen. Sollte ihre Platine besondere Anforderungen haben, treffen Sie die erforderlichen Einstellungen hier und speichern die Design Rules unter einem neuen Namen ab.
 </description>
 <description language="en">
-<b>EAGLE Design Rules</b> <p> The default Design Rules have been set to cover a wide range of applications. Your particular design may have different requirements, so please make the necessary adjustments and save your customized design rules under a new name.
 </description>
 <param name="layerSetup" value="(1*16)"/>
 <param name="mtCopper" value="0.0178mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.0178mm"/>
