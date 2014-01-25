@@ -3,6 +3,7 @@ eeg-adapter
 
 Adapters for using open-ephys for human EEG
 
+Also see the wiki category at https://open-ephys.atlassian.net/wiki/display/OEW/EEG for more info.
 
 Compatibility
 -----------
